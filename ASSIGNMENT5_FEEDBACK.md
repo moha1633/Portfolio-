@@ -4,7 +4,7 @@ Nice work! I liked the one page application, the design in nice and clean and it
 
 As you can see below there are a few things that still need some work - things like multiple pages are not applicable to this project, but the lack of prefixing and a local font are an issue.
 
-So you have  a Godkänt grade now, because most things are really good, but you'll need to clean it up a bit add some more to get the VG.
+So you have a Godkänt grade now, because most things are really good, but you'll need to clean it up a bit add some more to get the VG.
 
 Let me know if you are happy with the G or want to go for the VG.
 
